@@ -1,0 +1,52 @@
+modifiers:
+  - permission: "EasyPrefix.group.可愛的"
+    attributes:
+      MAX_HEALTH: 1.0
+  - permission: "EasyPrefix.group.髒髒比"
+    attributes:
+      DEFENSE: 0.5
+  - permission: "EasyPrefix.group.苦力怕好夥伴"
+    attributes:
+      CRITICAL_STRIKE_CHANCE: 0.2
+  - permission: "EasyPrefix.group.凋零虎嘯"
+    attributes:
+      CRITICAL_STRIKE_CHANCE: 0.4
+  - permission: "EasyPrefix.group.釣魚達人"
+    attributes:
+      MAX_HEALTH: 1.0
+  - permission: "EasyPrefix.group.盜墓者"
+    attributes:
+      CRITICAL_STRIKE_POWER: 2.0
+  - permission: "EasyPrefix.group.炸彈客"
+    attributes:
+      CRITICAL_STRIKE_CHANCE: 0.2
+  - permission: "EasyPrefix.group.賞金獵人"
+    attributes:
+      ATTACK_DAMAGE: 1.0
+  - permission: "EasyPrefix.group.大富翁"
+    attributes:
+      MAX_HEALTH: 1.0
+  - permission: "EasyPrefix.group.家財萬貫"
+    attributes:
+      MAX_HEALTH: 6.0
+  - permission: "EasyPrefix.group.終界突襲者"
+    attributes:
+      ATTACK_DAMAGE: 1.0
+  - permission: "EasyPrefix.group.小黑炭"
+    attributes:
+      MAX_HEALTH: 1.0
+  - permission: "EasyPrefix.group.能工巧匠"
+    attributes:
+      CRITICAL_STRIKE_POWER: 2.0
+  - permission: "EasyPrefix.group.鑽石達人"
+    attributes:
+      MAX_HEALTH: 1.0
+  - permission: "EasyPrefix.group.瞬移獵人"
+    attributes:
+      CRITICAL_STRIKE_POWER: 2.0
+  - permission: "EasyPrefix.group.彼端的探險者"
+    attributes:
+      CRITICAL_STRIKE_POWER: 6.0
+  - permission: "EasyPrefix.group.超級可愛的"
+    attributes:
+      MAX_HEALTH: 10.0
